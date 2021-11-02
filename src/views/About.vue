@@ -17,7 +17,11 @@
           <li><router-link to="/first"  class="sy">系统首页</router-link></li>
           <li><router-link to="/about/jbxx"  class="sy">基本信息</router-link></li>
           <li><router-link to="/gouwu"  class="sy">课程管理</router-link></li>
+<<<<<<< HEAD
           <li><router-link to="/about"  class="sy">首页效果</router-link></li>
+=======
+          
+>>>>>>> gouwuche
         </ul>
       </div>
           <router-view />

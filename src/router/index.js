@@ -44,6 +44,11 @@ const routes = [
       name: 'cart',
       component: () => import('../views/gouwu/Cart.vue'),
     },
+    {
+      path: '/first',
+      name: 'first',
+      component: () => import('../views/first/index.vue'),
+    },
      {
       path: 'kcgl',
       name: 'kcgl',
