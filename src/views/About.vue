@@ -19,8 +19,6 @@
           <li><router-link to="/gouwu"  class="sy">课程管理</router-link></li>
           <li><router-link to="/about"  class="sy">首页效果</router-link></li>
 
-          
->>>>>>> gouwuche
         </ul>
       </div>
           <router-view />
